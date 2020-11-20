@@ -11,7 +11,7 @@ def hello():
         "species": "Germany"
     },
     "product2": {
-        "name": "Kite",
+        "name": "Scooter",
         "species": "India"
     }
     }	
